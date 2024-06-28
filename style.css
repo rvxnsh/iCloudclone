@@ -1,0 +1,49 @@
+.icloud_row1 {
+    display: flex;
+    justify-content: space-between;
+    background-color: #303030;
+    color: white;
+    padding: 0 10px 0 10px;
+}
+
+.icloud_row2 {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+
+}
+
+.icloud_row2_leftblock_image {
+    height: 100px;
+    border: 1px solid black;
+    border-radius: 100px;
+}
+
+.icloud_row2_rightblock_h2 {
+    margin: 0;
+    padding: 0;
+}
+
+.icloud_row3 {
+    display: flex;
+    gap: 40px;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.icloud_row3_box {
+    text-align: center;
+}
+
+.icloud_row3_box_image {
+    height: 100px;
+}
+
+.icloud_row4 {
+    display: flex;
+    gap: 40px;
+    justify-content: center;
+    margin-top: 50px;
+}
